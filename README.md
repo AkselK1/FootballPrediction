@@ -10,7 +10,7 @@ This project involves processing and analyzing European football match data to e
 2) Open the "data" folder, next open the .ipynb file in Jupyter Notebook
 3) Run all cells and install any modules that are missing
 
-### Guide for the repository
+## Guide for the repository
 Majority of the project is in the data folder, all the data and code. All of the code can be found in the project.ipynb file.
 
 In the home page of the repository you can find the introduction of the project and also the project report.
