@@ -1,4 +1,4 @@
-# FootballPrediction
+# Football Predictions
 Authors: Tomi Lahe, Aksel Kaasik
 
 Football is one of the most popular sports globally, captivating millions of fans with its unpredictability and thrilling outcomes. As passionate sports enthusiasts, we were inspired to explore whether we could predict various aspects of a football match, such as the result, goals scored, and other key features. By diving into historical match data, we aim to uncover patterns and factors that influence match outcomes beyond just team strength.
